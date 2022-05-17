@@ -1,6 +1,5 @@
 import os
 import discord
-from replit import db
 
 intents = discord.Intents.default()
 intents.members = True
